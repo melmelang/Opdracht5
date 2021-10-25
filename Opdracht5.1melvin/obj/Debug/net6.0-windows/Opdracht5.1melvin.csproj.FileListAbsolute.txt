@@ -1,0 +1,16 @@
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\bin\Debug\net6.0-windows\Opdracht5.1melvin.exe
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\bin\Debug\net6.0-windows\Opdracht5.1melvin.deps.json
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\bin\Debug\net6.0-windows\Opdracht5.1melvin.runtimeconfig.json
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\bin\Debug\net6.0-windows\Opdracht5.1melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\bin\Debug\net6.0-windows\ref\Opdracht5.1melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\bin\Debug\net6.0-windows\Opdracht5.1melvin.pdb
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\Opdracht5._1melvin.Form1.resources
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\Opdracht5.1melvin.csproj.GenerateResource.cache
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\Opdracht5.1melvin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\Opdracht5.1melvin.AssemblyInfoInputs.cache
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\Opdracht5.1melvin.AssemblyInfo.cs
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\Opdracht5.1melvin.csproj.CoreCompileInputs.cache
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\Opdracht5.1melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\ref\Opdracht5.1melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\Opdracht5.1melvin.pdb
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.1melvin\obj\Debug\net6.0-windows\Opdracht5.1melvin.genruntimeconfig.cache
