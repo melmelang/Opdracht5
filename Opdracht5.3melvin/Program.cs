@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Opdracht5._2melvin
+namespace Opdracht5._3melvin
 {
     internal static class Program
     {
@@ -15,7 +15,8 @@ namespace Opdracht5._2melvin
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new ParentWindow());
+            Application.Run(new Form1());
         }
     }
 }
+//170.20.1.20;
