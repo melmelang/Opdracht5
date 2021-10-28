@@ -1,0 +1,17 @@
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5.3melvin.csproj.AssemblyReference.cache
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5._3melvin.Form1.resources
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5.3melvin.csproj.GenerateResource.cache
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5.3melvin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5.3melvin.AssemblyInfoInputs.cache
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5.3melvin.AssemblyInfo.cs
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5.3melvin.csproj.CoreCompileInputs.cache
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\bin\Debug\net6.0-windows\Opdracht5.3melvin.exe
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\bin\Debug\net6.0-windows\Opdracht5.3melvin.deps.json
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\bin\Debug\net6.0-windows\Opdracht5.3melvin.runtimeconfig.json
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\bin\Debug\net6.0-windows\Opdracht5.3melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\bin\Debug\net6.0-windows\ref\Opdracht5.3melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\bin\Debug\net6.0-windows\Opdracht5.3melvin.pdb
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5.3melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\ref\Opdracht5.3melvin.dll
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5.3melvin.pdb
+C:\Users\angeli melvin\source\repos\Opdracht5melvin\Opdracht5.3melvin\obj\Debug\net6.0-windows\Opdracht5.3melvin.genruntimeconfig.cache
